@@ -15,7 +15,7 @@ elif a==2:
     print("You have two keys with you")
     print("Choose any one")
     print(" Press 1 for first key ")
-print(" Press 2 for second key r")
+print(" Press 2 for second key ")
 b=int(input("Enter your choice"))
 if b==1:
     print("bad luck")
